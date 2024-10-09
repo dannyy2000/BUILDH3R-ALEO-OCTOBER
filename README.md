@@ -1,3 +1,20 @@
+~~~
+THIS IS THE DETAILS OF THE CONCLUDED METIS OCTOBER WORKSHOP TASK
+
+TRANSACTION HASH:  0x412ae192882bbf7bcad3158bb4a5f0a1594c2efd1b7894d9cc487d1b17192c9f
+ADDRESS: 0x59865d74E0715B26fE3C5E651400D50E94Ace874
+
+
+
+
+
+
+
+~~~
+
+
+
+
 # Using Scaffold-ETH 2 to deploy a dApp on Metis L2
 
 Follow this tutorial to create a quick dApp prototype and to deploy on Metis.
